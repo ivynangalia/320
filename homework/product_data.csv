@@ -1,0 +1,22 @@
+ID_Product,ProductName,Category,UnitPrice
+P101,Samsung Galaxy S21,Smartphones,799.99
+P102,Apple iPhone 13,Smartphones,999.99
+P103,HP Spectre x360,Laptops,1199.99
+P104,Dell XPS 13,Laptops,1099.99
+P105,Apple MacBook Air,Laptops,999.99
+P106,LG OLED55CXPUA,Televisions,1499.99
+P107,Sony WH-1000XM4,Headphones,349.99
+P108,Bose QuietComfort 35 II,Headphones,299.99
+P109,Canon EOS R5,Cameras,3899.99
+P110,Nikon Z7 II,Cameras,2999.99
+P111,Apple iPad Pro,Tablets,799.99
+P112,Microsoft Surface Pro 7,Tablets,749.99
+P113,Samsung Galaxy Tab S7,Tablets,649.99
+P114,Sony PlayStation 5,Gaming Consoles,499.99
+P115,Microsoft Xbox Series X,Gaming Consoles,499.99
+P116,Apple Watch Series 6,Smartwatches,399.99
+P117,Fitbit Versa 3,Smartwatches,229.99
+P118,KitchenAid Stand Mixer,Home Appliances,379.99
+P119,Instant Pot Duo 7-in-1,Home Appliances,89.99
+P120,Roomba i7+ Robot Vacuum,Home Appliances,799.99
+P132,Xerox Printer,Office Supply,129.99
