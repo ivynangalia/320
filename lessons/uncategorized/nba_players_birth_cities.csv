@@ -1,0 +1,2941 @@
+City,Year,Points
+Birmingham,1992,1026
+Athens,1999,1852
+Birmingham,1982,2
+Leeds,2000,23757
+Birmingham,2022,10348
+Montgomery,1984,2821
+Huntsville,2024,89
+Gadsden,1973,158
+Birmingham,1965,2282
+Mobile,2003,3368
+Birmingham,2020,5150
+Huntsville,1986,242
+Mobile,2005,12884
+Mobile,2022,12802
+Anniston,2005,2986
+Montgomery,2024,35
+Mobile,1989,36
+Town Creek,1983,452
+Leighton,1983,3587
+Vredenburgh,1985,15291
+Birmingham,1991,5033
+Dothan,1994,715
+Dothan,2024,418
+Birmingham,1986,1562
+Birmingham,2012,56
+Montgomery,1989,8
+Clayton,1976,2767
+Hanceville,1948,363
+Montgomery,2023,4208
+Birmingham,1975,2133
+Luverne,2021,112
+Birmingham,1997,467
+Covin,1948,394
+Knoxville,1982,1410
+Birmingham,1984,1396
+Montgomery,1982,1099
+Andalusia,2008,7715
+Birmingham,1969,88
+Tuskegee,1994,38
+Centreville,1998,1292
+Birmingham,2024,171
+Birmingham,1993,4617
+Tuskegee,1986,263
+Birmingham,1990,46
+Birmingham,2024,64
+Fort Rucker,1986,3257
+Tuscaloosa,2024,2228
+Perry,1981,68
+Birmingham,1983,12954
+Harpersville,1994,247
+Tuscaloosa,1993,21
+Birmingham,1985,3898
+Mobile,2000,329
+Mobile,2007,11
+Meridianville,2024,687
+Birmingham,2020,58
+Mobile,1996,17231
+Birmingham,1981,4
+Mobile,2017,782
+Harpersville,1982,17009
+Birmingham,1966,3
+Phenix City,1985,5439
+Mobile,1978,16
+Goodwater,2012,1807
+Goodwater,2024,98
+Birmingham,1977,118
+Mobile,1998,1804
+Montgomery,1980,180
+Brantley,2000,13858
+Crenshaw,2005,8192
+Birmingham,1983,152
+Huntsville,1981,376
+Abbeville,2001,440
+Selma,1961,103
+Demopolis,2011,5809
+Birmingham,1983,101
+Linden,2000,652
+Bessemer,1979,6873
+Gadsden,1970,13
+Huntsville,2009,8
+Birmingham,1947,318
+Elba,1969,4
+Hartselle,1977,2403
+Opelika,2005,3780
+Montgomery,2022,6
+Birmingham,2022,10
+Birmingham,1988,7458
+White Hall,2012,6254
+Sylacauga,2015,9933
+Birmingham,2024,1255
+Montgomery,1993,39
+Huntsville,2011,154
+Birmingham,1997,2150
+Tuscaloosa,2014,810
+Tuskegee,1987,2387
+Patton,1950,128
+Demopolis,1980,506
+Anchorage,2018,5743
+Anchorage,2024,330
+Phoenix,1991,2432
+Mesa,2024,13
+Tempe,2024,3343
+Phoenix,2019,4909
+Phoenix,2022,12
+Phoenix,1995,3319
+Tucson,2016,88
+Phoenix,1982,417
+Tucson,2001,10544
+Tempe,2015,74
+Phoenix,2024,2276
+Tucson,1987,536
+Mesa,2012,53
+Camp Verde,1950,320
+Tempe,2024,265
+Phoenix,1989,1078
+Scottsdale,2024,1586
+Phoenix,2024,159
+Phoenix,2022,173
+Phoenix,2019,413
+El Dorado,2016,1422
+Tuckerman,1971,3997
+Hot Springs,2022,107
+Black Oak,1951,2
+Fort Smith,1986,5971
+West Memphis,2000,92
+Malvern,1958,459
+West Memphis,2000,8278
+Fordyce,1999,171
+Pine Bluff,1991,12455
+Conway,1976,11819
+Little Rock,1958,5444
+Fayetteville,2024,15888
+Searcy,1968,36
+Crossett,2018,879
+Little Rock,2014,10713
+El Dorado,2024,2796
+Little Rock,2017,1040
+Little Rock,2020,20
+Hamburg,1987,11
+Fort Smith,2024,1678
+Little Rock,2022,20407
+Plummerville,1981,17
+McGehee,1990,10241
+McGehee,1998,1826
+Malvern,2009,3206
+McGhee,1985,1643
+McGehee,1978,8482
+Pine Bluff,2000,4431
+West Memphis,1989,1114
+Pine Bluff,1994,10433
+Little Rock,2004,567
+Little Rock,2020,32
+Fort Smith,1986,6
+Cherry Valley,1991,956
+Cotton Plant,1982,4120
+North Little Rock,1972,8120
+Little Rock,1991,11931
+Jonesboro,2024,5327
+Little Rock,2024,1063
+Osecola,1997,15
+Little Rock,1987,57
+Menifee,1999,331
+Hamburg,2004,18940
+Little Rock,2024,7138
+Newark,2024,2577
+Fort Smith,2001,4945
+Jacksonville,2004,18336
+Altheimer,1972,57
+Jonesboro,1970,85
+Prescott,1980,11782
+Jacksonville,2024,302
+Blytheville,1987,179
+Pine Bluff,1996,18
+West Memphis,2016,1189
+Fort Smith,2024,564
+Russellville,2007,9147
+Camden,1970,366
+Compton,2009,81
+Inglewood,1993,1343
+Inglewood,2009,185
+Lynwood,1975,3579
+Los Angeles,2018,8198
+Greenbrae,2013,5
+Fresno,1961,261
+San Diego,2024,6185
+Merced,2014,24505
+Los Angeles,1981,59
+Ventura,2016,1564
+Long Beach,2017,3755
+San Pedro,1990,2260
+Sacramento,2020,8001
+San Diego,2019,13
+San Francisco,2004,239
+Pasadena,2006,7990
+Gridley,2002,3285
+Los Angeles,1984,12
+Hollywood,1982,3516
+Ontario,2016,690
+Los Angeles,2000,241
+Anaheim,2024,3675
+Anaheim,2022,2995
+Los Angeles,1989,9953
+Oakland,1955,2895
+Santa Clara,2017,7589
+Oakland,2000,134
+Oakland,2006,4715
+Long Beach,2003,481
+Compton,2004,2
+Los Angeles,1971,2257
+Los Angeles,2022,593
+Compton,2003,835
+Los Angeles,2024,74
+Walnut Creek,2018,39
+Los Angeles,1976,7106
+Monrovia,2004,2287
+San Bernardino,2001,37
+Seaside,2024,36
+Merced,2009,5290
+Bakersfield,1978,2784
+Los Angeles,2007,26
+Los Angeles,2012,30
+Fresno,2005,46
+Lompoc,1986,4081
+Eureka,1947,567
+French Camp,1998,3317
+Bellflower,2018,161
+Los Angeles,2018,688
+Eureka,1949,4
+Oakland,2012,895
+Los Angeles,1999,80
+Oakland,2015,227
+Los Angeles,1981,2
+Encinitas,2016,3198
+San Diego,2002,2385
+San Bernardino,1979,28
+Inglewood,1991,76
+Los Angeles,2004,1868
+San Francisco,1955,3440
+Los Angeles,2005,10805
+Oceanside,1976,72
+Lodi,1995,12713
+Hanford,2020,9509
+Berkeley,1981,9931
+Oakland,2015,15
+Harbor City,2014,3548
+Bakersfield,2003,3710
+Sacramento,2022,2206
+Carson,2023,959
+Compton,2015,6
+Northridge,2011,2095
+Northridge,2014,2621
+Rancho Cucamonga,2022,8861
+Los Angeles,2023,7
+Los Angeles,1996,418
+Los Angeles,1989,5820
+West Covina,1988,2734
+Sacramento,1986,9
+Los Angeles,1990,7729
+Los Angeles,1999,49
+Pittsburg,1980,68
+Los Angeles,2020,3453
+Richmond,1947,6
+Salinas,1969,161
+Bakersfield,1989,87
+Los Angeles,2009,4475
+Edwards AFB,1978,84
+Oakland,2016,197
+San Francisco,1949,1408
+Oakland,2006,9041
+Los Angeles,2012,13447
+San Jose,2019,0
+Irvine,2015,1522
+Tulare,1980,10
+Lancaster,2023,3255
+Los Angeles,2016,79
+Fresno,1999,4536
+Long Beach,1997,59
+Compton,2024,23582
+Riverside,1983,5140
+Venice,1968,19
+Los Angeles,2024,7206
+Pasadena,2023,710
+Los Angeles,2018,63
+La Mesa,1981,15
+San Diego,2021,6633
+Lakewood,1982,43
+Sacramento,1978,8255
+Westminster,1993,5216
+Gardena,2001,1728
+Glendale,2024,477
+Los Angeles,2014,2
+Los Angeles,1996,277
+Rosemead,1989,28
+Ventura,2022,2629
+San Francisco,1977,7251
+Encinitas,1970,1085
+Los Angeles,2017,3888
+Los Angeles,2000,532
+San Francisco,1950,2936
+Los Angeles,2006,18
+Oakland,1984,517
+Long Beach,2015,1731
+Lynwood,2022,24
+Sacramento,2002,11
+Santa Barbara,1982,3016
+Citrus Heights,2024,12
+San Jose,1979,569
+Oakland,2003,2538
+Los Angeles,2005,301
+Moreno Valley,2015,42
+Los Angeles,1992,718
+San Francisco,1948,109
+Los Angeles,1995,248
+San Francisco,1947,8
+Los Angeles,1999,51
+Los Angeles,2002,1737
+Palmdale,2024,18032
+Stockton,1980,4210
+West Covina,2018,140
+Los Angeles,1950,2
+Oakland,2016,8653
+Los Angeles,1979,19181
+San Jose,2024,9009
+San Jose,2015,17
+Los Angeles,1996,254
+Tarzana,2014,1066
+Riverside,1999,373
+Bloomington,1997,13
+Inglewood,2016,159
+Merced,2024,4450
+Santa Monica,1994,352
+Lynwood,1991,8428
+Sacramento,1983,19
+San Diego,1970,543
+San Pedro,1983,4567
+Long Beach,1998,1180
+Los Angeles,2019,69
+Huntington Beach,1971,656
+Los Angeles,2016,890
+Newport Beach,2017,687
+Los Angeles,1981,336
+Los Angeles,1957,3078
+Los Angeles,1955,556
+Orinda,2024,10307
+Los Angeles,2024,25885
+Los Angeles,2005,5784
+Los Angeles,2010,1623
+Riverside,1994,55
+Gardena,2003,134
+San Leandro,2016,2410
+Bakersfield,1999,97
+Los Angeles,1987,16
+Claremont,1988,305
+Danville,2013,164
+Los Angeles,1998,1375
+Los Angeles,2022,2453
+Sacramento,1980,6666
+Chatsworth,2024,15736
+Mission Hills,2024,5444
+Pasadena,2016,1913
+Los Angeles,2013,28
+Berkeley,2011,5356
+Los Angeles,1995,8772
+Arcadia,1947,239
+Sacramento,1958,4851
+Mission Viejo,2022,558
+San Gabriel,1972,5759
+San Diego,2022,3276
+Los Angeles,2024,58
+Los Angeles,1985,2
+Glendora,2008,1488
+Irvine,2024,889
+Fresno,2004,281
+Los Angeles,2018,14904
+Compton,2018,7801
+Orange,1997,37
+Costa Mesa,2015,16
+Los Angeles,2011,255
+Los Angeles,2019,6102
+Los Angeles,1962,2847
+San Pedro,1990,15535
+Sacramento,2000,13127
+Monterey,2016,329
+Los Angeles,2023,2806
+Compton,2008,288
+Long Beach,1986,245
+Lakeport,1963,4833
+Los Angeles,2024,231
+Long Beach,2012,3398
+Irvine,2001,3107
+San Mateo,1986,6199
+San Francisco,2013,17529
+Lakewood,2020,11953
+San Diego,1983,1257
+San Francisco,1953,1642
+Los Angeles,1969,234
+Berkeley,1982,1688
+Palo Alto,2002,647
+Pasadena,2024,484
+Inglewood,1997,1835
+Modesto,1969,374
+Reseda,1976,24
+Riverside,2015,140
+La Jolla,1982,2
+Los Angeles,2024,13937
+San Diego,1995,5888
+Walnut Creek,1994,1870
+Oakland,2024,21151
+Torrance,2019,5567
+Oakland,1951,732
+Reedley,1989,30
+Oakland,1954,1265
+North Hollywood,2024,16476
+North Hollywood,2024,8326
+San Francisco,1964,3156
+Santa Monica,2024,15299
+Los Angeles,1975,1579
+Covina,1971,126
+Palo Alto,2001,3490
+Compton,2003,11
+Merced,1998,80
+Walnut Creek,2009,975
+Los Angeles,1950,335
+Gardena,2024,2378
+Fountain Valley,2001,18
+Oakland,2008,1200
+Torrance,1989,1061
+San Diego,2013,939
+San Diego,1992,22
+Etiwanda,2024,1074
+San Jose,1991,980
+San Francisco,1952,289
+Fresno,1988,466
+North Hollywood,2024,3169
+Los Angeles,2024,1522
+San Diego,1980,3149
+Fresno,1959,10063
+Los Angeles,2016,16278
+Anaheim,2024,13
+Riverside,2005,25279
+Los Angeles,2003,6357
+Inglewood,1996,1801
+San Diego,2024,3096
+San Diego,2024,54
+Los Angeles,2015,430
+Fresno,1958,555
+San Francisco,1989,6
+Livermore,1974,3287
+Los Angeles,2018,2504
+San Francisco,1991,13
+Long Beach,1994,1049
+Pasadena,2006,8286
+Los Angeles,2004,5943
+Clayton,1949,0
+Oakland,2009,53
+Los Angeles,1978,2113
+San Francisco,1976,9876
+Los Angeles,1981,115
+San Jose,2021,95
+Los Angeles,2022,1622
+Bellflower,1999,120
+Los Angeles,1997,634
+San Diego,2016,0
+San Francisco,1951,888
+Berkeley,1953,12
+San Francisco,1953,911
+San Luis Obispo,1971,257
+Los Angeles,2024,1972
+Orange County,2023,222
+Oakland,2022,66
+Los Angeles,2022,145
+Los Angeles,1975,177
+San Francisco,1992,26
+San Bernardino,1997,177
+Los Angeles,2006,2243
+Hollywood,1949,1737
+Huntington Beach,2004,2056
+Riverside,2000,120
+Riverside,1976,1552
+Oakland,2007,21813
+Los Gatos,2002,272
+Upland,2004,32
+Los Angeles,2018,7
+Anaheim,1970,199
+San Mateo,1956,479
+Oakland,2017,26397
+Colton,2007,31
+Los Angeles,1987,2
+Oakland,1955,5762
+Riverside,1953,191
+Fresno,1978,778
+Fresno,2019,1609
+San Francisco,1973,1254
+Berkeley,2011,1484
+San Diego,2024,6851
+Compton,2016,11272
+Los Angeles,2009,125
+Sacramento,2019,485
+Fort Ord,1981,55
+San Francisco,1980,499
+San Francisco,1982,3386
+Oakland,2002,9405
+Los Angeles,1976,1542
+Santa Monica,2023,5996
+Oakland,1992,10823
+Los Angeles,1982,83
+Los Angeles,1972,1223
+Carruthers,1948,10
+Lindsay,1948,17
+Fullerton,1988,251
+South Gate,1985,1731
+Santa Maria,1965,822
+Downey,1976,561
+Riverside,1975,7007
+San Bernardino,2006,6663
+Inglewood,2007,142
+Long Beach,1951,217
+Long Beach,2012,1594
+Torrance,2023,8
+San Francisco,1955,6014
+Los Angeles,1968,9
+Watsonville,1964,7355
+Los Angeles,1950,1507
+Burbank,1970,58
+Oakland,2003,6547
+Bakersfield,1986,8049
+Los Angeles,1983,225
+Inglewood,2012,3080
+Vallejo,2016,596
+San Francisco,1983,9924
+San Jose,1994,99
+Los Angeles,1985,1135
+Los Angeles,2022,3672
+Los Angeles,2008,1333
+Stockton,1994,346
+Los Angeles,2022,88
+Riverside,2000,71
+Los Angeles,2016,22
+Fresno,2013,5930
+Los Angeles,2001,3088
+Los Angeles,1985,272
+Santa Cruz,1996,761
+San Jose,1970,987
+Bakersfield,2009,416
+Los Angeles,1989,144
+Hayward,2018,448
+Los Angeles,1990,11
+Torrance,1972,373
+Long Beach,1977,1298
+Modesto,1978,1934
+Inglewood,1991,19015
+Los Angeles,1986,462
+San Leandro,2024,592
+San Leandro,2024,556
+Los Angeles,2007,45
+Pasadena,2017,2050
+Los Angeles,2024,15531
+Los Angeles,2012,18
+Los Angeles,1992,31
+Los Angeles,1996,844
+Long Beach,1995,2030
+Ontario,1950,876
+Oakland,2024,830
+San Jose,1982,745
+Los Angeles,2004,88
+Chula Vista,1975,277
+Oakland,1995,224
+San Diego,2014,373
+Palos Verdes,1983,3696
+Fullerton,2006,9206
+San Mateo,1987,222
+Los Angeles,2009,3463
+Hanford,1987,1000
+Modesto,2024,1530
+Hollywood,1981,34
+Laguna,2006,285
+Torrance,1990,8
+Bakersfield,2022,566
+San Francisco,1958,20
+La Mesa,1987,6215
+San Diego,2013,2649
+Cerritos,2014,48
+Beverly Hills,2024,607
+Long Beach,2015,0
+Long Beach,2018,274
+Torrance,2019,18
+Long Beach,2024,25211
+Torrance,1984,12809
+San Francisco,1989,336
+Los Angeles,1981,12803
+Long Beach,1982,692
+Berkeley,1986,14644
+Los Angeles,2024,363
+Bellflower,2018,3809
+Los Angeles,1986,4738
+San Francisco,1970,0
+Los Angeles,1986,68
+Los Angeles,1995,4406
+Los Angeles,2010,1128
+Harbor City,1987,153
+Los Angeles,1985,1628
+Hacienda Heights,2005,3825
+Lancaster,2024,1131
+Los Angeles,2007,17253
+Mount Shasta,2024,657
+Los Angeles,1996,591
+San Francisco,1978,9727
+San Diego,2018,666
+Long Beach,2024,4617
+West Covina,2011,1614
+Hollywood,1988,54
+Los Angeles,2024,3531
+Los Angeles,2015,4597
+San Diego,1993,62
+Hollywood,1960,9063
+West Covina,2023,32
+Los Angeles,2019,8194
+Santa Cruz,2000,54
+Visalia,2020,2873
+Denver,2014,15802
+Denver,2008,22
+Steamboat Springs,1950,1653
+Denver,2008,107
+Aurora,2009,571
+Boulder,1983,2544
+Boulder,1989,454
+Durango,1995,0
+Colorado Springs,2000,4666
+Denver,2008,3525
+Denver,1973,86
+Cortez,1994,251
+Wray,1950,1030
+Denver,2009,716
+Denver,1958,10
+Greeley,2019,3777
+Parker,2024,5151
+Colorado Springs,1973,6020
+Boulder,1978,6894
+Denver,2024,2411
+Hartford,1996,9621
+Litchfield,1985,377
+Bridgeport,2003,1690
+Bridgeport,1994,5802
+New Haven,2001,2647
+Stamford,1947,17
+Hartford,2013,9262
+Hartford,2000,502
+Stamford,2003,3473
+New London,2024,2642
+Hartford,1972,5521
+Bridgeport,1984,131
+Hartford,2017,4
+Monroe,1994,10953
+Waterbury,2014,4926
+Hartford,2018,8
+New Canaan,1983,31
+Manchester,1950,457
+Hartford,1955,7
+Bristol,1984,28
+Hartford,1999,7763
+New Haven,1992,99
+Norwalk,1983,17949
+Meriden,1988,160
+Hartford,1979,1103
+Bridgeport,1977,508
+New Haven,1958,7
+Hartford,1984,20
+Mystic,1947,93
+Bridgeport,1997,8107
+Bridgeport,1995,1140
+Hartford,2009,584
+New Haven,1990,130
+Middletown,1983,122
+New Haven,2022,149
+New Britain,1999,4
+Torrington,2012,197
+New Haven,1986,3327
+New Haven,1981,9017
+Wilmington,1997,19
+Newark,2024,3746
+New Castle,2024,1453
+New Castle,2019,5
+Wilmington,1992,1502
+Wilmington,2011,2239
+Wilmington,2011,966
+Wilmington,1974,9087
+Wilmington,2024,1613
+Dover,1988,36
+Wilmington,1987,1200
+Orlando,2019,7
+Jacksonville,1994,19
+Jacksonville,2024,3570
+Milton,1990,252
+Tampa,2012,11402
+Miami,2022,11593
+Orlando,2010,6863
+Lakeland,2021,1503
+Lake Wales,2006,11839
+West Palm Beach,2024,3504
+Winter Haven,1989,12544
+Hollywood,2016,5662
+Miami,1993,6
+Daytona,2005,5
+Bradenton,1982,137
+Bartow,2023,792
+Clearwater,1987,63
+Orlando,2022,31
+Jacksonville,2002,6758
+Haines City,1978,1762
+Casselberry,2015,590
+Miami,2023,72
+Daytona Beach,2020,25728
+Pembroke Pines,2024,24
+Orlando,2020,4
+Tampa,2024,11429
+Jacksonville,1988,153
+Jacksonville,1998,59
+Coral Gables,1994,416
+Jasper,2013,4319
+Vero Beach,2000,54
+Jacksonville,1983,14
+Orlando,1989,8733
+Gainesville,2023,15
+Hollywood,1982,73
+Ft. Lauderdale,2013,5067
+Pahokee,2011,121
+Tampa,2018,87
+Miami,1996,203
+Eustis,2024,334
+Pensacola,2015,3289
+Milton,2007,431
+Jacksonville,2024,15
+St. Augustine,1972,433
+Riviera Beach,2017,2754
+Miami,2018,73
+Chipley,1988,24941
+West Palm Beach,2006,1667
+Fort Lauderdale,2024,39
+Eustis,1987,265
+Fort Lauderdale,2008,27
+Gainesville,2011,326
+Sanford,1982,7
+Tampa,1973,1586
+Fort Walton,2001,3617
+Miami,2023,6586
+Lakeland,2024,1704
+Jacksonville,1996,8
+Fort Lauderdale,2024,292
+Miami,2020,14
+Tampa,2009,1540
+Port St. Lucie,2021,228
+Miami,2002,68
+Orlando,2016,650
+Monticello,1988,4102
+Ocala,1987,10163
+Weirsdale,1994,4937
+Lake Wales,2013,246
+Pompano Beach,2008,14155
+Miami,2017,3717
+Cocoa,2007,3325
+Eustis,2014,839
+Panama City,1985,2961
+Tampa,2009,511
+Cape Coral,1987,9
+Miami,2022,6301
+Pensacola,1991,38
+Pensacola,2024,1313
+Gainesville,2024,1524
+Miami,2003,9656
+Sarasota,1990,3654
+Gainesville,2001,10912
+Ocala,1993,1273
+Daytona Beach,2002,6925
+Orlando,2018,0
+Jacksonville,1973,282
+Bartow,2012,18381
+Miami,1974,3579
+Boca Raton,2024,96
+Miami,1977,5616
+Casselberry,2020,5571
+Miami,1968,237
+Melbourne,2001,3740
+Stuart,1978,4215
+Orlando,2024,53
+Ocala,1983,287
+Orlando,2024,1091
+Lauderdale Lakes,2012,8
+Riviera Beach,1988,16
+Miami,2015,43
+Lakeland,2010,135
+Fort Lauderdale,2002,20497
+Orlando,2021,18
+Leesburg,1975,7703
+Coral Gables,1986,3723
+Key West,2003,20790
+Pensacola,2024,2549
+Jacksonville,1985,11988
+Winter Haven,1995,6249
+Bradenton,1998,827
+Fort Pierce,2017,1520
+Brandon,1999,587
+Orlando,2024,241
+Pensacola,1985,20
+Longwood,2024,4489
+Jacksonville,1992,3951
+Bartow,2005,149
+St. Petersburg,2018,5592
+Lake Wales,2016,15994
+Belle Glade,1968,1977
+Jacksonville,1964,2
+Tavares,2011,351
+Lakeland,1991,1355
+Boynton Beach,2001,17600
+Daytona Beach,2001,122
+Winter Park,2008,53
+Fort Myers,1976,5002
+Clearwater,2019,118
+Pensacola,1957,70
+Ocala,2000,757
+Orlando,2018,5
+Marietta,2008,15028
+Atlanta,1977,4598
+Atlanta,2016,101
+Dalton,2012,119
+Atlanta,2021,5350
+Atlanta,2006,5327
+Moultrie,1979,350
+Augusta,2002,379
+Dublin,1988,5246
+Fort Valley,1968,30
+Atlanta,2024,5402
+Atlanta,2019,114
+Valdosta,1982,226
+Norcross,2024,653
+East Point,2005,89
+Atlanta,2024,6772
+Marietta,2024,10038
+Roswell,2019,293
+Atlanta,1990,16
+Gwinnett,2021,16
+Thomaston,2024,9499
+Atlanta,2024,3947
+Atlanta,2007,2960
+Atlanta,2022,2
+Albany,1975,69
+Sandersville,1981,94
+Milan,1992,7777
+Atlanta,1992,90
+Atlanta,2009,595
+Carrollton,1995,120
+Villa Rica,2024,7492
+Thomson,2002,1381
+Augusta,1999,14
+Atlanta,2009,162
+Toccoa,2007,8706
+Savannah,1950,36
+Atlanta,1981,143
+Jonesboro,2017,3009
+Burford,1951,746
+Atlanta,2024,6920
+Marietta,2000,19004
+Atlanta,1998,840
+Savannah,2001,4494
+Columbus,1971,27
+Atlanta,2022,8354
+Columbus,2006,84
+Duluth,2024,3
+Lawrenceville,2022,14
+Atlanta,2003,30
+Atlanta,1977,6945
+Atlanta,1980,15581
+Atlanta,1988,17955
+Atlanta,2024,0
+Rome,1987,4496
+Marietta,2005,2407
+Norcross,2022,628
+Gainesville,2016,197
+Augusta,1999,7781
+Augusta,2004,12996
+Villa Rica,2022,50
+Newnan,1986,31
+Cartersville,2024,80
+Augusta,1975,122
+Atlanta,1965,1198
+Elberton,1999,16006
+Atlanta,2022,42
+Ellenwood,2024,145
+Shellman,2005,1150
+Atlanta,2010,3553
+Hogansville,1981,6828
+Marietta,1987,11
+Marietta,2024,868
+Atlanta,2016,5081
+Atlanta,2017,3232
+Columbus,1979,3760
+Atlanta,2022,19485
+Savannah,1973,3032
+Savannah,2015,203
+Lithonia,2009,29
+Albany,2008,439
+Atlanta,1971,2039
+Atlanta,1984,2564
+Stone Mountain,2013,233
+Atlanta,1999,0
+Atlanta,2024,1197
+Toccoa,1975,3161
+Baxley,1997,27
+College Park,2011,0
+Atlanta,2012,14
+Thomaston,1984,4
+Atlanta,2019,29
+LaGrange,1971,3815
+Eastman,1968,173
+Savannah,2020,846
+Sandersville,1999,1902
+Hinesville,2024,1690
+Atlanta,1988,15016
+Columbus,2002,8636
+Swainsboro,2014,6
+Atlanta,1999,8184
+Atlanta,2013,15
+Talbotton,1979,4846
+Macon,1989,12065
+Macon,1950,8
+Atlanta,2024,1189
+Atlanta,2024,2371
+Macon,1981,5
+Fitzgerald,1972,741
+Albany,2003,195
+Savannah,2019,197
+Savannah,2018,35
+Bainbridge,1974,1755
+Atlanta,1991,10448
+Columbus,1998,350
+Augusta,1993,112
+Townsend,2022,6
+Marietta,2024,6499
+Atlanta,2024,252
+Marietta,1999,40
+Augusta,2011,45
+Atlanta,2024,221
+Canton,2014,612
+Hogansville,1991,5232
+Macon,1979,7541
+Atlanta,2005,329
+Fayetteville,2024,2054
+College Park,2018,12996
+Atlanta,1997,923
+Atlanta,2003,1281
+Brunswick,1995,24
+Canton,1971,55
+Atlanta,2010,5876
+Perry,2011,3527
+Atlanta,1997,9327
+West Point,1973,39
+Lawrenceville,2024,3239
+Roberta,1995,3128
+Atlanta,2022,0
+Atlanta,1975,10
+Thomasville,2005,3947
+Sparta,1974,1814
+Augusta,2018,16
+Cartersville,1993,1534
+Atlanta,1999,11736
+Twiggs,1994,92
+Albany,1998,423
+Gray,1987,4902
+Macon,1998,1974
+Maui,2001,8693
+Hilo,1957,6362
+Arco,1952,1245
+American Falls,1986,545
+Coeur d'Alene,2015,7740
+Paul,1947,73
+Pocatello,1985,14
+Chicago,1994,18458
+Chicago,2016,10
+Chicago,2018,6654
+Oak Park,1997,379
+Chicago,1994,42
+Chicago,1985,751
+Chicago,2002,11529
+Chicago,1994,7056
+Harvey,1978,1909
+Midlothian,2008,42
+Granite City,2005,0
+Bloomington,2024,1697
+Aurora,1993,627
+Chicago,1975,598
+Elgin,1952,16
+Chicago,1957,827
+Evanston,1997,48
+Chicago,2024,5520
+Chicago,1985,202
+Campbell Hill,1965,5430
+Chicago,1962,4
+Chicago,1995,873
+Chicago,1997,79
+Dekalb,2000,8
+Harvey,1983,391
+Maywood,1982,4099
+Chicago,2009,197
+Chicago,2003,3148
+Chicago,1980,585
+Maywood,2015,3118
+Maywood,2023,1431
+Chicago,1992,2163
+Midlothian,1950,50
+Chicago,1972,3722
+Phoenix,1986,5929
+Elgin,1950,598
+Chicago,2015,2921
+Chicago,2022,91
+Waukegan,1980,2896
+Tolono,2012,2108
+Chicago,1962,170
+Aurora,1955,69
+Maywood,2024,1992
+Chicago,1993,12195
+Arlington Heights,2024,412
+Danville,2004,2882
+Christopher,1981,7427
+Chicago,2011,17
+Harvard,1950,587
+Lincoln,2012,2312
+Chicago,1978,65
+Evanston,2018,67
+Arlington Heights,1991,7615
+Bellwood,2024,6637
+Chicago,1986,26
+Chicago,1984,166
+Chicago,2000,19460
+Sterling,1950,602
+Harvey,2013,6820
+Rosemond,1952,35
+Chicago,2024,17717
+Oak Park,1968,118
+Decatur,2001,5917
+Carbondale,2013,26
+Wood River,1950,15
+Chicago,2024,2290
+Chicago,2023,55
+Quincy,1987,14
+Chicago,2018,34
+Chicago,1997,36
+Harvey,1997,8085
+Chicago,1998,1140
+Chicago,1954,16
+Peoria,1997,980
+Chicago,1954,4
+Centralia,1953,3224
+Joliet,1949,800
+Chicago,1980,613
+East St. Louis,2003,7410
+Harvey,2014,1992
+Evanston,1975,593
+Rockford,1999,375
+Danville,1953,287
+Chicago,1972,54
+Melrose Park,2010,17306
+Chicago,1978,40
+Madison,1976,12233
+Chicago,2024,153
+Chicago,1958,175
+Chicago,1950,29
+Rockford,1994,6
+Roxana,1958,8843
+Springfield,1997,6154
+East St. Louis,1968,81
+Chicago,2019,26
+Chicago,2000,72
+Chicago,2005,12914
+Centreville,2024,775
+Chicago,1954,75
+Chicago,1962,9280
+Chicago,1992,8870
+Peoria,1998,14
+Peoria,2003,442
+Chicago,2007,2
+Rock Island,2022,0
+Chicago,2000,107
+Chicago,1972,3547
+Chicago,1953,33
+Decatur,2012,253
+Chicago,2003,15373
+Chicago,1982,613
+Chicago,1975,609
+Chicago,2001,14470
+Chicago,1969,6672
+Mt. Vernon,1976,882
+Chicago,1949,18
+Chicago,2011,2842
+Chicago,2018,107
+Chicago,1979,132
+Griggsville,1957,2075
+Park Forest,1992,5940
+Chicago,2006,2
+Lockport,2024,3934
+Elmhurst,2000,15659
+Springfield,1990,202
+Chicago,2024,2430
+Chicago,2024,29
+Chicago,2013,16159
+Carbondale,2008,4637
+Chicago,1986,356
+Freeport,1981,1624
+Chicago,2010,1817
+Springfield,2023,13968
+LaGrange,1993,451
+Batavia,1985,27482
+Joliet,1947,50
+Chicago,2014,139
+Chicago,2012,157
+Chicago,1999,19202
+Chicago,2009,582
+Chicago,1986,12748
+Chicago,2000,500
+Chicago,1949,115
+Chicago,1949,112
+Lisle,2023,3630
+Chicago,1947,253
+Chicago,1966,12480
+Chicago,1953,2057
+Mount Vernon,1952,907
+Chicago,2024,1186
+Brookfield,1969,138
+Chicago,1968,109
+Moline,1978,3114
+Oak Lawn,1978,606
+Evanston,1974,413
+Harvey,2004,203
+Chicago,2004,393
+Chicago,1998,255
+Aurora,1954,2156
+South Holland,2020,15
+Washington,1995,168
+Chicago,2019,103
+Belleville,1992,44
+Robinson,2023,2545
+Niles,1995,1210
+Chicago,1994,1942
+Belleville,2024,4
+Chicago,2018,346
+Peoria,2019,5231
+Chicago,1983,1694
+Chicago,1970,260
+Chicago,2002,2011
+Melrose Park,2013,13198
+Chicago,2007,5
+Waukegan,2015,17700
+Chicago,1976,1430
+Chicago,1994,479
+Chicago,2015,3481
+Chicago,2010,821
+Chicago,1976,37
+Centralia,1955,117
+Chicago,1990,22
+Chicago,1999,4
+Maywood,2004,204
+Kewanee,1977,609
+Waukegan,1986,3823
+Chicago,2022,721
+Chicago,2015,9
+Chicago,2001,262
+Kankakee,1991,72
+East Dundee,1950,15
+Joliet,1954,2163
+Joliet,1956,10156
+Chicago,1950,27
+Belleville,2009,4507
+Chicago,2015,295
+Chicago,2016,5827
+Chicago,1968,280
+Mundelein,2022,2
+Chicago,1988,24
+Bolingbrook,2018,0
+Charleston,1972,172
+Norris City,1950,781
+Joliet,1948,485
+Chicago,1950,13
+Peoria,1996,13
+Cairo,2002,2431
+Chicago,1983,1067
+Chicago,1950,686
+Chicago,1997,8717
+Chicago,2020,10
+Chicago,1954,420
+Libertyville,2017,2177
+Chicago,2023,2336
+Murphysboro,1970,11549
+Chicago,2021,2566
+Chicago,1991,1455
+Chicago,1998,389
+Quincy,2003,64
+Chicago,1955,1436
+Chicago,2015,3175
+Chicago,2020,416
+Naperville,2012,4478
+Chicago,2022,4380
+Chicago,1982,4471
+Chicago,1950,321
+Gurnee,2018,147
+Washington,2018,82
+Libertyville,2024,11
+East Peoria,1984,3011
+Chicago,1950,226
+Granite City,1958,6384
+Quincy,1966,2319
+Chicago,1983,7645
+Joliet,2007,2
+Chicago,1969,332
+Maywood,2018,2
+Springfield,1949,2
+Rock Island,2021,679
+Chicago,1955,3141
+Chicago,1952,692
+Aurora,1952,11
+Eldorado,1969,786
+Chicago,2013,8032
+Chicago,1996,9377
+Elgin,1974,7577
+Chicago,1982,5541
+Dixon,2023,1159
+Chicago,2024,12573
+Chicago,1948,540
+Princeton,1962,398
+Chicago,1978,12377
+Trenton,1989,1491
+Chicago,1964,3291
+Oak Park,2021,3320
+Kankakee,1991,17287
+Chicago,2012,4189
+Chicago,2012,954
+Chicago Heights,1963,4
+McLeansboro,1976,10571
+Sandwich,1950,726
+Peoria,1976,3298
+Chicago,2004,33
+Chicago,1960,1619
+Evanston,1991,71
+Chicago,2008,143
+Hickory Hills,2024,2738
+Blue Island,1950,783
+Brooklyn,1989,0
+Roselle,1955,874
+Chicago,1954,100
+Chicago,2022,180
+Aurora,1990,51
+Chicago,2009,289
+Bolingbrook,2022,146
+Chicago,1994,18822
+Decatur,2022,502
+Rockford,1970,2239
+Zeigler,1951,1445
+Chicago,1996,159
+Chicago,1950,336
+Lockport,2010,211
+Chicago,2020,6824
+Chicago,1991,649
+Chicago,1991,5400
+Peru,1952,1445
+Rockford,2024,7360
+Chicago,2019,23165
+Chicago,1980,187
+Chicago,2008,15647
+Chicago,1993,6389
+Chicago,1981,1442
+Waukegan,1989,4423
+Chicago,1998,61
+Chicago,1986,3575
+Evanston,2008,4120
+Peoria,2005,253
+Chicago,2008,165
+Chicago,1990,15
+Chicago,1986,6
+Chicago,2011,907
+South Bend,1981,1779
+Franklin,1991,744
+Fort Wayne,1951,1040
+Otterbein,1958,137
+Gary,1947,65
+Richmond,2024,4253
+Yorktown,1952,557
+Gary,1974,15358
+Indianapolis,1954,3232
+New Castle,1988,6168
+West Baden,1992,21791
+Muncie,1968,723
+East Chicago,1954,3187
+East Chicago,1976,687
+East Chicago,1987,11517
+Indianapolis,1982,5
+Huntingburg,1985,6890
+Mishawaka,2022,84
+Evansville,2006,7826
+South Bend,1996,6
+Indianapolis,1979,15279
+Muncie,1975,3997
+Gary,2016,5
+Gary,1982,976
+Fort Wayne,1975,160
+Grant County,1952,127
+Chesterton,1947,296
+Terre Haute,1973,9012
+Hammond,1954,1818
+Indianapolis,1975,64
+Indianapolis,1970,580
+Muncie,1990,7
+Tipton,1977,601
+Indianapolis,1950,142
+Indianapolis,2021,1994
+Evansville,1973,14
+Gary,1994,1710
+Lagoda,1949,89
+Gary,2024,5660
+Gary,1995,4799
+Fort Wayne,1992,13
+Indianapolis,2024,13868
+Indianapolis,1998,938
+Elkhart,1991,79
+Indianapolis,2022,165
+Terre Haute,1991,213
+Fort Wayne,1950,25
+Fort Wayne,1949,289
+Gary,2017,48
+Gary,1995,46
+Fishers,2024,6295
+Indianapolis,2024,12687
+Fort Wayne,2018,3
+Indianapolis,2007,5094
+Indianapolis,2023,9545
+Jasper,1955,3234
+Marion,1968,79
+Valparaiso,2015,379
+Gary,2010,270
+Berne,1969,964
+South Bend,2024,2389
+South Bend,2019,48
+Greenwood,2024,540
+Bloomington,2013,3003
+Richmond,1947,15
+Indianapolis,2012,114
+Huntington,1953,1705
+Indianapolis,1976,369
+Indianapolis,1976,6588
+Elkhart,2003,15347
+Indianapolis,1975,80
+South Bend,1997,285
+Washington,1950,802
+Gary,1950,634
+Gary,1969,24
+New Albany,2023,650
+South Bend,1977,832
+Muncie,1989,6684
+Indianapolis,2020,7765
+Terre Haute,1963,4204
+Kokomo,1974,5560
+Elberfeld,1953,232
+Richmond,1951,3203
+Fort Wayne,1974,2418
+Petersburg,1964,11947
+Elkhart,1963,196
+Fort Wayne,1987,5259
+South Bend,1983,12
+East Chicago,1963,236
+Gary,1972,1090
+Evansville,2006,3056
+Anderson,2021,39
+Chesterton,2016,227
+Franklin,1976,9169
+Logansport,1955,2
+Hammond,1975,21
+Indianapolis,2018,2333
+Fort Wayne,2012,9724
+Indianapolis,2002,2071
+East Chicago,2021,4743
+South Bend,1968,27
+Lebanon,1975,3330
+South Bend,2006,2622
+Muncie,1991,158
+Rockville,1974,73
+Whiting,1950,44
+Hobart,1970,1935
+Indianapolis,2008,192
+Indianapolis,1975,61
+Yorktown,1950,3
+Pennville,1958,1105
+Martinsville,1953,595
+Martinsville,1947,94
+Martinsville,1947,73
+West Lafayette,2018,54
+Fort Wayne,2024,6585
+Fort Wayne,2019,1697
+Terre Haute,2024,285
+Indianapolis,2024,4199
+Bloomington,1996,340
+Indianapolis,1979,202
+East Chicago,1952,68
+Terre Haute,1995,4603
+Marion,2018,18578
+Gary,1952,86
+Kokomo,1969,1125
+Marion,1954,23
+La Porte,1967,951
+Nappanee,1947,0
+Washington,1951,150
+Fort Wayne,1950,404
+Gary,2005,14234
+Gary,2021,1804
+Fort Wayne,1950,932
+Evansville,1968,208
+Gary,1950,616
+Delphi,1951,165
+Bedford,1975,968
+Indianapolis,1950,107
+Terre Haute,1990,0
+Martinsville,1990,4141
+LaPorte,1996,6652
+Evansville,2024,83
+Hammond,1950,346
+Bloomington,1970,438
+Roachdale,1949,1
+Fort Wayne,1951,581
+Greencastle,1980,5009
+Indianapolis,2020,169
+Indianapolis,2021,10061
+Indianapolis,2018,217
+Indianapolis,2022,0
+Anderson,1989,928
+Holland,1970,1191
+Gary,1954,1859
+Marion,1977,319
+Bedford,1955,282
+Indianapolis,1977,15079
+Indianapolis,1977,14232
+Rushville,1947,173
+Muncie,2008,7147
+South Bend,2024,452
+Anderson,1983,5424
+Fort Wayne,2024,19
+Colfax,1949,215
+Indianapolis,1978,792
+Richmond,1972,148
+Indianapolis,2024,319
+Indianapolis,1992,4034
+Indianapolis,1991,10981
+Washington,2024,4376
+Ames,2024,12796
+Fort Madison,2010,1319
+Des Moines,2002,3270
+Orange City,2018,5359
+Des Moines,1988,2225
+Cedar Rapids,1978,1490
+Iowa City,1988,1140
+Washington,1997,177
+Ames,1976,1739
+Des Moines,1950,176
+Cedar Falls,2024,406
+Des Moines,1992,3952
+Sioux City,2016,9594
+Cedar Rapids,1996,3520
+Dubuque,1982,4602
+Hampton,2008,5690
+Emmetsburg,1999,645
+Iowa City,1996,37
+Cedar Rapids,2024,2148
+Cedar Rapids,2024,376
+Oskaloosa,2010,186
+Cedar Rapids,2018,12
+Postville,1997,153
+Cedar Rapids,2020,59
+Grand View,1950,429
+Muscatine,2023,70
+Ames,2013,19
+Lawrence,1988,13910
+Kansas City,1979,9407
+Hays,2019,300
+Pratt,1956,641
+Winfield,1955,2455
+Burlington,2024,960
+Spearville,2022,3675
+Wichita,2024,510
+Wichita,1997,1014
+Kansas City,1991,8110
+Wichita,2012,3747
+Kansas City,1973,4733
+Overland Park,2007,133
+Kansas City,1977,2408
+Wichita,2008,1919
+Independence,1993,1647
+Junction City,1999,739
+Chanute,2009,2
+Arkansas City,1985,7809
+Manhattan,2023,9
+Kansas City,1975,7666
+Kansas City,1963,226
+Fort Scott,1950,1125
+Wamego,1954,13
+Liberal,1997,89
+Wichita,1970,731
+Pittsburg,1993,1451
+Overland Park,2022,975
+Yale,1950,92
+Kansas City,1973,435
+Liberal,2006,41
+Sublette,1949,275
+Manhattan,1950,1323
+Meriden,2005,33
+Leavenworth,2007,169
+Wichita,2024,1162
+Wichita,2024,854
+Kansas City,2014,5593
+Harper,1987,11916
+Wichita,1999,13
+Topeka,1972,289
+Louisville,2008,7357
+Covington,1974,443
+Hopkinsville,1978,4434
+Louisville,1973,166
+Henderson,1996,73
+Sturgis,1972,5085
+Hardinsburg,1979,5622
+Hardinsburg,1951,2006
+Monticello,1961,183
+Louisville,1992,648
+Corbin,1959,25
+Louisville,1978,4
+Hopkinsville,2009,2878
+Williamsport,1966,1696
+Warren County,1973,7011
+Bowling Green,2000,9731
+Owensboro,1972,1432
+Marion,1947,238
+Burgin,1958,6721
+Hazard,1975,7666
+Lawrenceburg,1976,106
+Newport,1983,13516
+Neon,1963,573
+Louisville,1979,342
+Vanceburg,1962,1195
+Fulton,1953,5
+Louisville,1987,1132
+Birmingham,1954,8003
+Lexington,1980,1040
+Horse Cave,1972,65
+Louisville,1991,12391
+Louisville,2006,52
+Owensboro,1970,14870
+Louisville,1971,358
+Lexington,1976,4145
+Columbia,1960,368
+Campbellsville,1976,8743
+Owingsville,1962,1244
+Louisville,2022,2
+Owensboro,1982,1470
+Birmingham,1952,1084
+Owenton,1969,271
+Hopkinsville,2022,6
+Louisville,2005,14551
+Lexington,1981,2
+Louisville,2022,0
+Morganfield,1978,6
+Harlan,1952,1428
+Louisville,1974,64
+Lexington,1991,171
+Owensboro,1970,1351
+Louisville,1971,309
+Lexington,2019,2997
+Louisville,1984,1030
+Louisville,2022,525
+Scottsville,1978,2698
+Berea,1949,53
+Louisville,1984,4
+Maysville,2021,1597
+Flat Lick,1947,181
+Lexington,1988,1187
+Louisville,1995,167
+Covington,1953,1
+Midway,1952,661
+Henshaw,1953,848
+Beaver Dam,1951,926
+Louisville,2007,1874
+Louisville,1959,262
+London,1950,22
+Russellville,1979,5088
+Russellville,1973,397
+Corydon,1964,8378
+Trigg County,1970,1228
+Lexington,1958,7633
+Richmond,1951,789
+Wickliffe,1961,898
+Louisville,2022,9337
+Louisville,2024,10136
+Louisville,2023,97
+Corbin,1964,6120
+Louisville,1971,91
+Paris,1999,11
+Farmington,1972,8750
+Louisville,2006,165
+Campbellsville,1973,428
+Princeton,1976,4097
+Louisville,2013,277
+Hazard,1971,2097
+Louisville,2021,58
+Scottsville,1957,4161
+Louisville,2002,3354
+Newport,1964,1237
+Murray,1972,3530
+Owingsville,1963,175
+Logan County,1947,15
+Bowling Green,2024,453
+Lexington,1983,95
+Covington,1971,1020
+Louisville,1976,1051
+Louisville,1970,341
+Covington,1963,34
+Bedford,1949,91
+Louisville,1972,704
+Caldwell,1950,1198
+Paris,1957,407
+Newport,1962,200
+Lexington,1990,3071
+Louisville,1962,3091
+Louisville,1981,10624
+Webster County,1947,45
+Covington,1955,2838
+Murray,1976,4347
+Louisville,2024,4285
+Central City,1955,175
+Russellville,1998,128
+Louisville,1999,265
+Hopkinsville,2004,3738
+Louisville,1980,194
+Louisville,1972,237
+New Orleans,2022,9259
+New Orleans,2024,23
+Baton Rouge,2017,6575
+Monroe,2000,9223
+Lafayette,2001,3455
+Baton Rouge,1998,299
+Zachary,1956,5379
+New Orleans,1958,1
+Zachary,2005,509
+Pineville,2018,584
+Iowa,2005,527
+New Orleans,1990,37
+Reserve,2024,449
+Crowley,1947,256
+Baton Rouge,1985,351
+Baton Rouge,1980,6663
+Zachary,1950,70
+New Orleans,1951,181
+Lafayette,1968,77
+Baton Rouge,2015,4111
+Thibodaux,2000,1261
+Baker,2024,22
+Baton Rouge,2004,1081
+New Orleans,1998,22195
+Mamou,2013,3946
+Shreveport,1999,16401
+Baton Rouge,1998,4783
+Baton Rouge,1996,90
+New Orleans,2024,9940
+New Orleans,2022,87
+Minden,1969,1500
+Baton Rouge,2022,3656
+New Orleans,2015,9855
+Lake Charles,2020,34
+Baton Rouge,1979,232
+Monroe,1995,68
+Rayville,1984,27313
+Monroe,1995,7011
+Ruston,2024,2557
+Shreveport,1999,275
+Jonesboro,1960,2237
+New Orleans,2002,2370
+New Orleans,1979,3829
+Shreveport,2014,20042
+New Orleans,2024,43
+New Orleans,2004,8817
+New Orleans,2012,27
+Morgan City,1994,204
+New Orleans,2006,3473
+Natchitoches,1990,13892
+Baton Rouge,2024,1366
+Tallulah,1977,11366
+Winnsboro,2015,488
+Alexandria,1976,10672
+New Orleans,1986,44
+Bastrop,1980,3
+New Orleans,2001,566
+Baton Rouge,2010,7
+Lake Charles,1981,12
+Pineville,2014,15579
+New Orleans,2007,773
+Morgan City,2017,148
+Bastrop,1977,13895
+Summerfield,2004,36928
+Baton Rouge,2019,998
+Baton Rouge,2024,451
+Sailes,1952,14
+Bastrop,1949,176
+Grambling,2017,287
+Monroe,2022,14536
+New Orleans,2022,8402
+Minden,1970,5730
+Monroe,1990,10291
+Monroe,1985,150
+Shreveport,2022,10
+New Orleans,2024,7790
+New Orleans,2004,4921
+Lafayette,1994,715
+Shreveport,1997,23334
+Gretna,2022,5036
+New Orleans,1951,767
+Baton Rouge,1965,20880
+Baton Rouge,2000,5153
+Baton Rouge,1975,9746
+DeQuincy,1993,17
+New Orleans,2013,1092
+New Orleans,1983,334
+New Orleans,2002,1732
+Hico,1974,12183
+Bossier City,2002,400
+New Orleans,1998,3161
+DeRidder,1979,184
+Monroe,1969,14522
+Baton Rouge,2016,787
+Baton Rouge,2019,71
+Baton Rouge,1973,8
+Vidalia,1993,5162
+Winnsboro,1966,4930
+Minden,1969,59
+New Orleans,1978,3107
+Tallulah,1982,11038
+New Orleans,1969,858
+Delcambre,1974,6414
+Shreveport,2016,1189
+Baton Rouge,2024,51
+Baton Rouge,1989,2
+West Monroe,2001,51
+Ferriday,1980,315
+Shreveport,2009,4582
+Kentwood,1975,42
+Baton Rouge,2024,4529
+Shreveport,2008,144
+Baton Rouge,2015,3093
+Baton Rouge,2017,5750
+Homer,2012,1054
+Shreveport,1994,2083
+New Orleans,1995,1078
+Collinston,2003,41
+Sorrento,1999,9784
+Columbia,1979,7709
+Shreveport,2024,1575
+New Orleans,2000,190
+Pineville,1988,19
+Bernice,1994,13623
+Monroe,1982,2824
+New Orleans,2024,14225
+New Orleans,1980,14
+Monroe,2006,4
+York,2024,3981
+Bangor,1996,3697
+Baltimore,2021,110
+Baltimore,2018,77
+Baltimore,1991,1501
+Baltimore,2023,7625
+Baltimore,1984,188
+Silver Spring,2006,637
+Cheverly,2019,7568
+Baltimore,1981,8
+Baltimore,2001,6858
+Mount Airy,2010,1340
+Baltimore,1999,130
+Frederick,1975,19
+Havre De Grace,1984,347
+Baltimore,1989,3131
+Towson,2024,4
+Baltimore,2024,4039
+Baltimore,1994,56
+Baltimore,2008,15635
+Baltimore,2011,4
+Clinton,2019,4133
+Baltimore,1992,7470
+Baltimore,2018,729
+Baltimore,2009,3678
+Baltimore,2015,344
+Upper Marlboro,2024,132
+Baltimore,1990,22
+Rockville,2012,67
+Baltimore,2005,27
+Baltimore,2013,119
+Baltimore,1999,3704
+Hyattsville,2003,6439
+Silver Spring,2008,10446
+Upper Marlboro,2024,2595
+Baltimore,1950,3
+Temple Hills,2020,757
+Silver Spring,2020,1692
+Baltimore,2000,67
+Cheverly,2024,14241
+Silver Spring,2024,4422
+Gaithersburg,2024,524
+Baltimore,1988,65
+Baltimore,2024,693
+Fort Washington,2018,9349
+Rockville,1984,694
+Baltimore,1993,44
+Clinton,2023,3
+Baltimore,2020,0
+Clinton,2017,6977
+Baltimore,2023,2384
+Baltimore,1991,66
+Baltimore,1993,7902
+Silver Spring,2003,2177
+Capitol Heights,2007,0
+Landover,2023,1825
+Gaithersburg,2020,108
+Baltimore,1992,131
+Frederick,2006,472
+Baltimore,2017,3470
+Baltimore,2017,24
+Silver Spring,2023,8503
+Lanham,2017,34
+Baltimore,2018,18
+Baltimore,2024,104
+Havre de Grace,2024,3978
+Hagerstown,2000,8094
+Baltimore,2013,83
+Baltimore,1964,10068
+Fort Washington,2002,1388
+Baltimore,2016,1031
+Berlin,1976,660
+Davidsonville,2024,4
+Cheverly,1986,873
+Baltimore,2013,278
+Oxon Hill,2007,1516
+Baltimore,2023,29
+Baltimore,1987,4302
+Odenton,2024,579
+Columbia,2021,0
+Baltimore,1997,7508
+Chestertown,1993,417
+Baltimore,2001,4166
+Baltimore,1987,13
+Brookline,2015,709
+Boston,2003,1837
+Lynn,2010,2
+Worcester,1991,8
+Boston,2004,8901
+Boston,2024,2113
+Springfield,2005,5376
+Boston,1979,234
+Boston,2007,25
+Worcester,2006,483
+Boston,2024,3705
+Brookline,1980,672
+Hamilton,2023,4040
+Arlington,2024,3363
+New Bedford,1947,10
+Boston,2001,394
+Springfield,2002,7038
+Winthrop,1975,1127
+Boston,2011,3
+Worcester,1963,53
+Salem,2002,5059
+Bernardston,2003,30
+Fall River,2001,224
+Cambridge,1975,2062
+Westfield,1949,224
+Boston,2000,114
+Framingham,1975,3470
+Boston,1994,13790
+Somerville,1951,591
+Norwood,2022,1175
+Boston,1982,3285
+Boston,1975,282
+Worcester,1986,157
+Roxbury,2020,2433
+Lawrence,2024,3262
+Boston,2009,22
+Malden,2023,3338
+Boston,1970,50
+Franklin,2024,20
+Roxbury,2022,915
+Roslindale,2009,6
+Worcester,1949,1181
+Weymouth,2019,31
+Lynn,1959,910
+Boston,2000,4
+Salem,2023,1685
+Boston,1968,33
+Detroit,2011,169
+Detroit,1969,308
+Detroit,2002,2542
+Detroit,2016,6
+Detroit,2000,7320
+Detroit,1957,28
+Birmingham,2022,6
+Ann Arbor,2024,41
+Birmingham,2014,8408
+Flint,2011,3204
+Lansing,1989,706
+Grand Rapids,2024,14529
+Kalamazoo,1953,1763
+Saginaw,2021,9
+Flint,2024,5342
+Detroit,1975,6847
+Detroit,2008,9870
+Grand Rapids,2024,81
+Detroit,1966,324
+Detroit,1999,3243
+Pontiac,2024,195
+Flint,1992,11
+Grand Rapids,2005,8
+Benton Harbor,2020,8463
+Flint,2006,609
+Ypsilanti,1987,169
+Benton Harbor,1994,204
+Linwood,2018,4
+Kalamazoo,2004,1654
+Detroit,2009,9
+Detroit,2018,3432
+Detroit,1997,3620
+Detroit,1977,11778
+Muskegon,2019,454
+Detroit,1986,9710
+Detroit,2010,217
+Saginaw,1980,316
+Detroit,1974,14053
+Detroit,2005,2815
+Detroit,2004,253
+Detroit,2015,1571
+Royal Oak,1983,961
+Hamtramck,1975,1201
+Detroit,2022,3
+Detroit,2006,5116
+Ann Arbor,1981,980
+Flint,2009,26
+Flint,1977,248
+Detroit,2018,223
+Lansing,2004,13
+Detroit,2006,2782
+Lansing,2023,3776
+Detroit,1981,60
+Flint,1980,2550
+Detroit,1991,676
+Detroit,1986,26595
+Detroit,1989,25
+Flint,1998,3257
+Saginaw,2024,7052
+Detroit,2015,6059
+Shelby,1983,2443
+Ann Arbor,1950,10
+Detroit,1976,273
+Detroit,2010,149
+Saginaw,2005,1139
+Grand Rapids,2005,163
+Detroit,1968,2175
+Detroit,1982,193
+Detroit,2024,950
+Detroit,2017,575
+Detroit,1979,1313
+Milwaukee,1949,15
+Battle Creek,2003,23
+Detroit,2018,6
+Detroit,1969,136
+Pontiac,2024,1135
+Detroit,2006,262
+Flint,1996,12
+Detroit,2003,32
+Lansing,1996,17707
+Jackson,1973,2633
+Detroit,1989,129
+Wyoming,2016,8208
+Detroit,1999,1699
+Warren,1985,432
+Traverse City,1976,407
+Flint,2024,8246
+Detroit,1985,2376
+Highland Park,1968,2229
+Detroit,2006,6745
+Kalamazoo,2024,581
+Cassopolis,1984,875
+Wayne,2003,9518
+Romulus,1997,12131
+Sterling Heights,2019,2
+Saginaw,1999,1685
+Traverse City,2002,10925
+Southfield,2016,97
+Flint,1994,55
+Detroit,2003,293
+Saginaw,2015,9325
+Jackson,1955,12
+Pontiac,2019,2
+Detroit,1981,17
+Port Huron,1947,21
+Detroit,1992,4030
+Flint,2024,6907
+Detroit,1970,2351
+Detroit,1975,934
+Benton Harbor,2005,510
+Romulus,2001,7175
+Detroit,1980,5211
+Grand Rapids,2024,3747
+Muskegon,1976,10898
+Southfield,2008,1930
+Detroit,1979,595
+Detroit,1996,194
+Flint,2011,7628
+Detroit,1969,792
+Highland Park,1993,531
+Ann Arbor,1987,4899
+Detroit,1999,851
+Saginaw,2015,14644
+Saginaw,2009,265
+Saginaw,2001,0
+Detroit,1979,409
+Flint,2004,1938
+Detroit,2002,2196
+Detroit,2024,67
+Detroit,2007,13220
+Detroit,1987,11657
+Inkster,2003,0
+Pontiac,1988,464
+Pontiac,2012,84
+Benton Harbor,1948,56
+Grand Rapids,1997,331
+St. Joseph,1985,52
+Jackson,1997,19
+Birmingham,1991,517
+Bloomfield Hills,1947,20
+Detroit,1980,11785
+Detroit,1996,2356
+Flint,1987,138
+Highland Park,2005,13430
+Pontiac,1960,1167
+Grand Rapids,1958,2012
+Grand Rapids,1997,3
+Flint,1993,2
+Detroit,2023,997
+Detroit,2007,5889
+Detroit,1976,77
+Grand Rapids,2024,1355
+Hamtramck,1981,13383
+Detroit,1977,3353
+Detroit,1973,2193
+Detroit,2005,2085
+Detroit,1989,8868
+Southfield,2019,998
+Lansing,2022,1795
+Grand Rapids,2001,6984
+Kalamazoo,1990,8729
+Lansing,1992,3106
+Detroit,2022,101
+Detroit,2008,17182
+Benton Harbor,2006,49
+Paw Paw,2016,68
+River Rouge,1969,208
+Detroit,2022,55
+Flint,2018,219
+Burnsville,2018,1050
+Minneapolis,2017,2421
+Minneapolis,1969,1707
+Minneapolis,2004,11
+Lake City,1994,4599
+St. Paul,2024,30
+Minneapolis,1951,1447
+Duluth,1969,331
+Hopkins,2024,1452
+Minneapolis,1994,1494
+Robbinsdale,1992,48
+Minneapolis,2001,314
+Owatonna,1947,0
+Stillwater,1988,343
+St. Paul,1955,326
+Hibbing,1961,5597
+Minneapolis,2010,3536
+St. Paul,2022,132
+Hill City,1953,2669
+Minneapolis,2024,1357
+Minneapolis,1956,34
+Minneapolis,2017,5350
+Rochester,2024,32
+Excelsior,1952,302
+Cottage Grove,2001,283
+Minneapolis,1951,1306
+Gonvick,1953,2888
+Apple Valley,2024,2153
+Burnsville,2024,4420
+Minneapolis,1947,12
+Minneapolis,1994,1084
+Fulda,1980,16
+Minneapolis,1989,1495
+Long Lake,2019,2395
+St. Paul,2019,0
+New Ulm,1998,3854
+Bloomington,1993,310
+Lakeville,2020,6
+Minneapolis,1995,113
+Hibbing,1993,17335
+St. Paul,1988,1320
+St. Paul,1971,158
+Minneapolis,2022,0
+St. Louis Park,2024,3206
+Hopkins,2024,869
+Dawson,1998,18
+Virginia,1951,1811
+Melrose,1987,8940
+Minneapolis,1992,3397
+Thief River Falls,1970,1032
+Minneapolis,1950,22
+Monticello,2013,2293
+Edina,1995,332
+Minneapolis,2024,891
+St. Paul,1953,913
+McIntosh,1950,266
+Minneapolis,2024,360
+Duluth,1957,2800
+St. Paul,2024,2031
+Minneapolis,2022,13
+Minneapolis,2006,560
+Minneapolis,2018,423
+Winona,1950,143
+Minneapolis,1994,18
+Minneapolis,2014,0
+Slayton,1999,0
+St. Cloud,2018,461
+North Robbinsdale,2023,119
+Gulfport,2001,8553
+Clarksdale,2015,640
+Kosciusko,1983,2197
+Picayune,2010,1453
+Pascagoula,1997,166
+Okolona,1970,1132
+Utica,1980,440
+Jackson,2009,140
+Madison County,1985,1482
+Madison,2022,2
+Yazoo City,1963,411
+McComb,2007,343
+Biloxi,2019,1913
+Jackson,2004,42
+Macon,1977,21
+Jackson,1985,2335
+Houston,1993,6520
+Flora,1979,2553
+Jackson,1997,264
+Jackson,2012,7309
+Aberdeen,1970,2047
+Southaven,2023,1818
+Ethel,1962,1548
+Biloxi,2011,555
+Gulfport,1984,522
+Jackson,2017,14858
+Starkville,2024,1902
+Greenwood,1995,35
+Canton,1977,1337
+Greenwood,1996,1553
+Jackson,1988,1125
+Pascagoula,1999,423
+McComb,1980,5301
+Jackson,2002,20
+Anguilla,1973,4396
+Jackson,2008,5212
+Pascagoula,2003,553
+Silver City,1983,17111
+Meridian,2022,4656
+Greenville,1990,296
+Utica,2010,7956
+Yazoo City,1975,243
+Monticello,2018,14343
+Yazoo City,1984,224
+Tylertown,1986,4369
+Carthage,1982,11200
+Jackson,2012,59
+Scooba,1989,1015
+Jackson,1972,1506
+Collins,1996,1262
+Indianola,1983,10303
+Necaise Crossing,1975,3474
+Canton,1986,1816
+Hattiesburg,2003,12367
+Summit,1976,3541
+Quitman,2011,12227
+Meridian,2002,10266
+Rosedale,1976,2658
+Columbus,1968,643
+Ruleville,1953,877
+Kiln,1968,321
+Meridian,1990,39
+Jackson,1985,819
+Jackson,1980,40
+Carrolton,1978,3209
+Cleveland,2018,509
+Starkville,2014,5273
+Laurel,1993,508
+Flowood,2022,170
+Vicksburg,1988,470
+Thornton,1972,848
+New Albany,1974,241
+Jackson,2007,472
+Jackson,2001,2882
+Macon,1976,84
+Hattiesburg,1990,14607
+Columbus,1970,874
+Rolling Fork,1993,5904
+New Albany,1981,25
+Columbus,1994,409
+Bethlehem,1975,18831
+Jackson,1977,413
+Natchez,1969,150
+Jackson,1977,2860
+Pearl,1999,716
+Rolling Fork,1979,3901
+Crawford,2005,10483
+Greenwood,1980,4086
+Canton,2022,88
+Aberdeen,1996,40
+Jackson,2016,10759
+Meridian,1971,2216
+Starkville,2022,27
+St. Louis,2012,88
+St. Louis,1968,252
+Sedalia,1979,63
+St. Louis,1955,3
+St. Louis,2024,16355
+Independence,1957,8
+St. Louis,1996,2199
+Crystal City,1977,9217
+Grandview,2024,7990
+Ironton,2001,1988
+West Plains,1969,76
+St. Louis,2022,246
+Boonville,1969,332
+St. Louis,1969,5780
+Boonville,1952,9
+East St. Louis,2004,8
+Kansas City,1986,1638
+Kansas City,2024,176
+Poplar Bluff,2013,57
+Poplar Bluff,2016,2881
+St. Charles,2014,265
+Kansas City,1990,1440
+Kansas City,2024,958
+St. Louis,2023,77
+Kansas City,2000,0
+St. Louis,2012,10242
+St. Louis,1978,370
+Forest Green,1947,165
+Webster Groves,1964,4128
+St. Louis,2017,11232
+St. Louis,2024,697
+Clarkton,1969,1179
+Mexico,2009,4710
+St. Louis,1959,11234
+St. Louis,1997,9
+Poplar Bluff,1949,410
+St. Louis,2021,760
+St. Louis,2022,5015
+Powell,1948,0
+St. Louis,1971,649
+St. Louis,1975,5594
+Waynesville,2022,76
+Sedalia,1998,198
+St. Louis,1972,1230
+St. Louis,1965,571
+Kansas City,1949,81
+St. Louis,1970,882
+Kansas City,2005,8017
+Columbia,2024,137
+St. Louis,2024,5419
+Kansas City,2018,751
+St. Louis,1953,337
+Kansas City,2024,773
+St. Louis,1977,100
+Charlestown,1953,817
+St. Louis,1957,575
+Bonne Terre,1949,617
+Kansas City,2017,3250
+Kansas City,2010,2213
+St. Louis,1950,115
+St. Louis,1970,1103
+Kansas City,2024,3027
+Kirksville,1978,30
+St. Louis,2023,22
+Leonard,1957,10
+St. Louis,1988,5323
+St. Louis,2024,11852
+St. Louis,1987,510
+Columbia,2015,76
+Springfield,2021,4451
+Kansas City,1978,402
+Kansas City,2024,382
+St. Louis,2005,1954
+St. Louis,1981,14399
+Puxico,1961,1826
+St. Louis,1976,2959
+St. Louis,2008,555
+Miles City,1950,276
+Billings,1976,31
+Billings,1982,293
+Deer Lodge,1980,5428
+Great Falls,2010,58
+Missoula,1997,3425
+Havre,1949,253
+Missoula,1974,4081
+Glendive,2010,1200
+Libby,1997,98
+Omaha,1971,12964
+Hastings,1947,0
+Lincoln,1968,197
+Grand Island,1991,30
+Lincoln,2005,2944
+Omaha,1993,837
+Lincoln,1995,135
+Omaha,1993,162
+Grand Island,1977,193
+Omaha,2021,86
+Omaha,2005,285
+Bushnell,1951,3480
+Lincoln,1993,44
+Omaha,2021,160
+Omaha,2024,528
+Omaha,2000,1547
+Las Vegas,2002,5497
+Las Vegas,2011,2061
+Las Vegas,2021,18
+Las Vegas,2024,2196
+Las Vegas,2024,2606
+Las Vegas,2010,9912
+Las Vegas,2014,19
+Las Vegas,2008,4017
+Las Vegas,2012,4
+Las Vegas,2017,35
+Las Vegas,2024,11
+Las Vegas,2024,215
+Las Vegas,1980,357
+Las Vegas,2024,227
+Las Vegas,2017,4344
+Concord,2016,4632
+Jersey City,1997,2186
+Newark,2024,7513
+Willingboro,2011,2334
+Newark,1971,6328
+Belle Mead,2019,174
+Hackensack,2024,254
+Elizabeth,1980,25279
+Elizabeth,1951,22
+Lakewood,1969,440
+Cherry Hill,2012,14698
+Toms River,1993,34
+Jersey City,1962,117
+New Brunswick,1950,342
+Newark,2002,15
+East Orange,1996,131
+Newark,2019,136
+New Brunswick,1978,1928
+Long Branch,2019,1592
+Newark,1997,3130
+New Brunswick,2024,7131
+Glen Ridge,2003,4313
+Woodbury,1965,2505
+Kearney,1952,2037
+Plainsboro,2014,4822
+Teaneck,1951,1708
+Hoboken,1952,492
+Teaneck,1995,7994
+Fanwood,2011,81
+Irvington,2017,63
+Plainfield,2015,1138
+Trenton,2018,6
+Newark,2022,7
+Orange,2016,998
+Trenton,1982,464
+Pitman,2002,79
+Orange,2003,1903
+Atlantic City,1994,131
+Atlantic City,1973,5449
+Atlantic City,1958,1496
+Union City,1950,253
+Newark,2019,5430
+Union City,1975,2790
+Atlantic City,1982,7314
+Jersey City,1976,331
+Newark,2017,7729
+East Orange,1980,334
+Elizabeth,2002,7232
+Trenton,1998,209
+Newark,1995,736
+Newark,1947,2
+Jersey City,1976,5251
+Trenton,1996,767
+Merchantville,1972,113
+Raritan,1972,103
+Wildwood,2023,28
+Paterson,2024,20
+Orange,2014,13237
+Union City,1965,12194
+Caldwell,2017,5987
+Waldick,1948,65
+Hoboken,1948,2
+Newark,1962,320
+Rutherford,1948,418
+Trenton,1991,7206
+Linwood,2012,5
+Morristown,2022,231
+Jersey City,1998,1032
+Plainfield,2024,5877
+Hackensack,1950,31
+Elizabeth,2005,42
+Trenton,2017,3353
+Trenton,1955,1
+Elizabeth,1969,735
+Union City,1948,262
+Newark,1968,14
+Irvington,1953,124
+Perth Amboy,1981,118
+Seacaucus,2023,129
+Livingston,2005,0
+Livingston,2009,5342
+Newark,1949,135
+Newark,1949,13
+Newark,1978,1845
+Riverside,1974,4458
+Paulsboro,2024,14
+Jersey City,1953,2388
+Atlantic City,2024,1723
+Morristown,1998,739
+Camden,1987,17
+Jersey City,2001,817
+Camden,1975,1074
+Newark,2024,3
+Harrington Park,2024,78
+Newark,1979,98
+Hillside,2018,83
+Somerville,2000,5118
+Morristown,2013,7860
+West Orange,1955,1471
+Jersey City,1968,470
+Jersey City,1951,23
+Jersey City,1988,3355
+Newark,2011,28596
+New Brunswick,1978,255
+Union City,1960,2382
+River Edge,1985,13099
+Newark,1975,181
+Freehold,1996,3283
+Teaneck,2008,84
+Trenton,2022,13
+Orange,2015,1523
+Jersey City,1958,0
+Princeton,2023,373
+Newark,1958,1785
+Asbury Park,2024,3561
+Jersey City,2000,380
+Trenton,2019,198
+Jersey City,1992,383
+Trenton,2000,6683
+Atlantic City,1997,130
+Newark,1990,457
+West Orange,1955,2152
+Newark,1949,103
+Maplewood,1952,115
+Paterson,1997,1
+Newark,1956,5859
+Millstone Township,2014,0
+Freehold,2020,12148
+Jersey City,1984,2505
+Camden,1950,852
+Union City,1954,178
+Perth Amboy,1982,7868
+Hoboken,2014,174
+Paterson,2010,9454
+Camden,1992,2566
+Camden,2016,5210
+Edison,2024,13121
+Glen Ridge,1991,12142
+Glen Ridge,1950,826
+Neptune,1974,6918
+Camden,2007,964
+Camden,1991,215
+New Brunswick,2018,17
+Paterson,2012,35
+Jersey City,1972,122
+Teaneck,2018,14034
+Neptune,1989,254
+Newark,2007,5642
+Plainfield,2003,714
+Englewood,1984,2930
+Elizabeth,1982,132
+Piscataway,2024,2
+Newark,1972,3590
+Jersey City,1994,19
+Hobbs,1975,11012
+Alamogordo,2010,20
+Hobbs,2014,150
+Los Alamos,2015,4
+Clovis,1993,8
+Las Cruces,2021,1382
+Silver City,1981,384
+Brooklyn,1978,4557
+New York,1989,38387
+New York,1954,43
+Brooklyn,2019,37
+Bronx,1997,751
+New York,2010,6799
+Brooklyn,2024,1277
+Buffalo,1970,2081
+Queens,2005,10789
+New York,2024,4519
+Brooklyn,2022,28289
+New York,1984,16481
+Rochester,1988,34
+Peekskill,2014,880
+New Rochelle,1956,147
+Brooklyn,1949,119
+Staten Island,2012,894
+Harlem,2024,2323
+Queens,2002,77
+Bronx,2008,219
+Hempstead,2009,8488
+New York,1951,135
+New York,2006,39
+New York,1980,3977
+New York,1989,2882
+Poughkeepsie,1968,608
+Long Island City,1966,5550
+Rochester,1987,14
+Mount Kisco,1995,18
+Watertown,2019,569
+Syracuse,2014,5706
+New York,1949,634
+Dobbs Ferry,2009,4941
+Fayetteville,2024,50
+New York,1954,56
+Buffalo,2005,258
+Brooklyn,1978,26
+Brooklyn,2024,383
+Brooklyn,1951,1105
+Brooklyn,1975,1141
+Cortlandt Manor,2016,16827
+Brooklyn,1953,77
+Brooklyn,1962,10625
+Brooklyn,1959,40
+Brooklyn,1955,10
+Bayville,1997,7302
+Mineola,1947,34
+New York,1981,4
+New York,2002,4125
+Buffalo,2005,108
+Bronx,2002,3
+Brooklyn,1972,4229
+New York,2024,782
+Brooklyn,1975,10498
+Brooklyn,1973,86
+Syracuse,2006,1090
+Rochester,2024,2529
+Cornwall,1976,128
+Queens,1953,92
+New York,1993,584
+Syracuse,1983,1495
+Ogdensburg,1990,422
+Buffalo,1976,8683
+New York,1982,471
+New York,2019,10
+Queens Village,2001,2648
+Syracuse,2019,192
+Buffalo,1953,1591
+Albany,2005,111
+Staten Island,2024,669
+Brooklyn,2024,181
+Brooklyn,1986,122
+New York,1991,1086
+Glendale,1955,20
+New York,1970,2904
+Queens,2009,3096
+Syracuse,1972,281
+Brooklyn,1962,4891
+Bronx,2000,2454
+Brooklyn,1948,239
+Brooklyn,2005,37
+Staten Island,1953,442
+Minoa,1968,8622
+New York,1970,16960
+New York,1971,2031
+Valhalla,1985,3534
+Brooklyn,1976,16310
+Brooklyn,1998,1411
+New York,1974,1287
+New York,1977,1008
+Brooklyn,1973,2443
+New York,1999,3235
+New York,1947,14
+Westbury,1973,830
+Brooklyn,1967,21
+New York,1951,17
+Queens,2024,2272
+Brooklyn,1971,7094
+Buffalo,2012,1348
+Binghamton,1955,11
+Yonkers,1951,494
+Rockville Centre,1988,105
+Brooklyn,2009,588
+Brooklyn,1972,2458
+Long Island City,1963,16
+Mount Vernon,2024,11000
+Brooklyn,1958,132
+Cold Spring,1965,400
+Brooklyn,1990,3496
+Westbury,1976,96
+Middletown,2016,241
+Queens,2013,224
+New York,1988,1802
+New York,2001,6265
+Far Rockaway,1976,10176
+New York,1984,3948
+Astoria,1958,148
+East Meadow,1987,30026
+New York,1950,1031
+Brooklyn,1949,155
+Binghamton,1953,52
+New York,1962,6974
+New York,1963,2525
+Brooklyn,1955,1042
+Queens,1949,240
+Queens,1948,277
+Brooklyn,1953,1512
+New York,1996,10125
+Rochester,1983,261
+Niagara Falls,2012,1504
+Brooklyn,1976,2
+Lockwood,2012,4
+New York,1949,179
+Brooklyn,1947,16
+The Bronx,2020,27
+Glens Falls,2019,1438
+White Plains,2019,7786
+Binghamton,1955,2997
+Jamaica,2012,508
+Brooklyn,1949,476
+Brooklyn,2023,17642
+Brooklyn,2024,8290
+Brooklyn,1948,347
+New York,1948,465
+Scarsdale,1985,5
+North Babylon,2024,7204
+New York,1973,384
+New York,1966,4636
+Brooklyn,1993,5080
+Schenectady,1970,4
+New York,1970,14676
+Staten Island,2024,26
+Huntington Station,2005,9895
+New York,1949,893
+Mount Vernon,1977,155
+Rockville Centre,1973,562
+Floral Park,2006,585
+Queens,2022,4259
+New York,1969,618
+Islip,2024,14602
+New York,1951,405
+Brooklyn,1976,11528
+Rockville Centre,1971,144
+Buffalo,2013,207
+New York,2015,5538
+New Rochelle,1957,331
+Brooklyn,1951,2563
+New York,1970,4030
+Queens,2017,6611
+Brooklyn,1984,3214
+Brooklyn,1947,19
+New York,2007,28
+Bronx,2019,54
+Brooklyn,1954,2166
+Albany,2024,4920
+Poughkeepsie,2022,157
+Brooklyn,1987,4380
+Jamaica,1989,2328
+The Bronx,2024,1717
+Harlem,2014,1641
+Amsterdam,2024,125
+Brooklyn,1975,182
+Brooklyn,2004,12489
+Brooklyn,1969,2190
+Copiague,2014,5863
+Brooklyn,2013,408
+New York,2024,1108
+New York,1980,27
+Brooklyn,2018,55
+Brooklyn,1990,54
+Brooklyn,1986,4214
+Brooklyn,1992,11825
+Brooklyn,2000,296
+Buffalo,1984,41
+Mount Vernon,2013,95
+Rochester,1984,7
+Copiague,1989,244
+Brooklyn,1999,21
+Brooklyn,2003,32292
+Bayside,1976,1906
+New York,1953,1594
+New York,1948,592
+Brooklyn,1947,384
+Brooklyn,1975,6049
+New York,1959,2
+Brooklyn,1947,22
+Carmel,2017,981
+New York,1949,191
+Jamaica,1998,1259
+Elmhurst,1960,2434
+New York,1980,82
+Yonkers,2018,1616
+Brooklyn,1992,6470
+Brooklyn,1993,19655
+New Hyde Park,1969,6
+Syracuse,2023,401
+Bronx,1982,3640
+Schenectady,1970,213
+The Bronx,1949,21
+Hicksville,1986,5202
+Angola,2005,11121
+Rochester,2023,548
+Queens,2014,345
+Buffalo,1984,19248
+New York,1962,302
+Brooklyn,1969,11507
+New York,2021,15
+New York,1951,949
+New York,1968,894
+Brooklyn,1953,463
+Brooklyn,1950,799
+Bronx,2022,1
+Rochester,2003,345
+Brooklyn,1973,11575
+New York,1949,2
+New York,1954,89
+Brooklyn,1953,2462
+Hudson,2019,23
+Buffalo,1974,48
+Poughkeepsie,1955,8
+Queens,2019,18
+New York,1982,916
+Brooklyn,1951,124
+Brooklyn,1954,12
+New York,1949,258
+New York,1973,442
+New York,2024,607
+New York,1947,5
+Brooklyn,2024,2814
+Brooklyn,2009,16297
+Brooklyn,1948,333
+New York,1978,269
+Liberty,1988,204
+Hamburg,1962,227
+New York,2004,11644
+Richmond,1954,478
+Niagara Falls,1950,98
+Brooklyn,1960,74
+New York,1950,658
+Buffalo,1964,2450
+New York,1977,160
+Mount Vernon,1993,9014
+Mount Vernon,1987,224
+Bronx,2018,194
+New York,1955,757
+New York,1974,4
+Huntington,1960,5921
+Brooklyn,1960,4237
+Elmira,1986,5914
+New York,1953,3851
+New York,1947,244
+New Rochelle,1954,1452
+Brooklyn,1947,152
+Elmsford,2024,11619
+Bronx,1997,440
+Brooklyn,1972,6161
+New York,1954,370
+New York,1988,24
+Amherst,2022,40
+Bronx,1992,609
+Queens,2014,210
+Long Island,1950,30
+Brooklyn,1947,314
+New York,2001,17911
+Astoria,1976,13017
+New York,1955,20
+Bronx,1997,40
+Brooklyn,1971,1003
+New York,2020,5881
+Uniondale,1950,1804
+Harlem,2024,2
+Buffalo,2024,1564
+New York,1953,21
+Brooklyn,1975,1795
+New York,1950,473
+New York,1949,537
+Queens,2020,2568
+Bronx,1996,80
+Buffalo,2014,840
+Jamaica,2013,12781
+Brooklyn,2022,63
+Utica,2020,4
+Bronx,1983,9898
+Jamestown,2022,0
+Ithaca,1993,100
+New York,2008,2469
+North Tarrytown,2022,1552
+Brooklyn,1947,121
+Brooklyn,2001,15324
+Buffalo,1951,804
+Queens,1995,0
+Rochester,2024,42
+Bronx,1997,5378
+Brooklyn,2020,9
+Bronx,1990,2702
+Bronx,1981,4
+Brentwood,2024,174
+Brooklyn,1949,17
+Syracuse,2011,8
+Bronx,2007,290
+Naples,1954,13
+Queens,2000,2167
+New York,1981,190
+New York,1950,1773
+Bronx,1996,106
+Brooklyn,1996,4036
+Baldwin,2024,128
+Brooklyn,2002,30
+Rockville Centre,1975,225
+Rome,1976,3906
+Poughkeepsie,1974,405
+New York,1977,6334
+Brooklyn,1977,3345
+Buffalo,2007,19591
+Jamaica,2001,6
+New York,1982,5345
+New York,2004,4676
+Rochester,1989,0
+New York,1959,342
+Brooklyn,1947,382
+The Bronx,1949,709
+Long Island,1990,57
+Brookhaven,1986,3
+Buffalo,1996,1011
+Bayshore,1993,5763
+White Plains,2024,277
+Brooklyn,2000,5228
+New York,1973,8766
+New York,1972,0
+Bronx,1956,11
+New York,2003,321
+Syracuse,1957,54
+Bellerose,1976,802
+Syracuse,1999,8780
+New York,1964,18438
+Kew Gardens,1947,435
+Waterloo,1987,57
+New York,1980,14837
+New York,2002,189
+Brooklyn,1988,847
+Bronx,2000,4955
+New York,1976,6
+Brooklyn,1977,198
+Bronx,1947,242
+New York,1998,61
+New York,1979,367
+New York,1954,13
+Mount Vernon,1980,3082
+Queens,1997,9397
+Rochester,1995,698
+Bellport,1983,16262
+New York,2016,53
+New York,1954,131
+Bronx,1986,10902
+Queens,2014,14
+Watertown,1947,1
+New York,1982,1781
+Brooklyn,2022,4738
+Rochester,2024,2196
+Brooklyn,1998,40
+Syracuse,1998,3
+New York,2008,73
+Bronx,2005,14463
+Brooklyn,2006,47
+Brooklyn,1949,633
+New York,1995,3533
+Mount Vernon,1980,2508
+New York,1974,2539
+Brooklyn,2015,4183
+Harlem,2011,2341
+Brooklyn,1991,46
+Brooklyn,2001,30
+Schenectady,2006,54
+Brooklyn,2020,2050
+Long Island,2012,57
+Brooklyn,1975,8114
+New York,1969,2
+Lockport,1948,78
+Brooklyn,2014,4652
+Monroe,2017,2
+Yonkers,1980,55
+Ossining,2024,13
+Brooklyn,2024,2241
+Brooklyn,1949,997
+New York,1950,579
+Brooklyn,2012,14
+Queens,2016,6808
+Long Island City,1977,180
+Southampton,1984,4199
+The Bronx,2023,14486
+Rochester,2004,2901
+New York City,1954,2
+Brooklyn,1957,6924
+Brooklyn,1989,1660
+Sunnyside,1997,101
+Elmhurst,1948,246
+Brooklyn,2018,643
+Brooklyn,1970,1339
+Brooklyn,1975,17772
+Brooklyn,1975,665
+Mount Vernon,1987,14093
+Rochester,2024,116
+New York,1989,1268
+Mount Vernon,1987,10158
+Buffalo,1983,147
+Bronx,2007,1892
+Rockaway,1983,10537
+Flushing,1978,2553
+Southhampton,1982,144
+Queensbridge,2017,13058
+Bronx,1969,145
+Brooklyn,1982,239
+New York,1969,65
+Queens,2020,19
+Bronx,1991,12
+New York,1972,545
+Brooklyn,1956,7990
+Brooklyn,1955,1210
